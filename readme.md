@@ -23,7 +23,7 @@ https://botland.com.pl/arduino-seria-podstawowa-oryginalne-plytki/1060-arduino-u
 
 # Schemat w programie Fritzing:
 
-![zdj3](https://user-images.githubusercontent.com/93212854/152233090-e4dbb77d-5185-44c4-b3ee-7e9abf1dd4c1.JPG)
+![zdj3](https://user-images.githubusercontent.com/93212854/152233924-7b46fa16-9ac4-4ba4-b116-59b6e3e2a947.JPG)
 
 
 # Wygląd złożonego schematu
