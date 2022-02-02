@@ -27,7 +27,8 @@ https://botland.com.pl/arduino-seria-podstawowa-oryginalne-plytki/1060-arduino-u
 
 # Wygląd złożonego schematu
 
-![img](C:\Users\Sajgo\Desktop\zdj1.jpg)
+(![zdj1](https://user-images.githubusercontent.com/93212854/152232961-a00cccd2-e33c-44da-9316-0135bdcc130c.jpg)
+
 ![img](C:\Users\Sajgo\Desktop\zdj2.jpg)
 
 # Kod programu:
