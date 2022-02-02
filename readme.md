@@ -1,6 +1,6 @@
 # Michał Sagan
  
-# Projekt - TM----
+# Projekt  Technika Mikroprocesorowa
 
 # Arduino - Kostka do gry z diodami
 
